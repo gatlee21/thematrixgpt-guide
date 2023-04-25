@@ -10,9 +10,15 @@ Explore a world crafted by the most advanced LLMs. The Matrix GPT is not just a 
 
 Are you ready to step into the unknown and challenge the limits of your imagination? Join us in The Matrix GPT, and let's create the future together! 🌟
 
+
 <a href="https://discord.gg/S6tTYr7sXb" class="image-button">
     <img src="imgs/discord.png" alt="Clickable Image" width="150" height="50"/>
 </a>
+
+<br>
+
+<a href="https://github.com/gatlee21/TheMatrixGPT">Come build on Github 💻</a>
+
 
 <br>
 
