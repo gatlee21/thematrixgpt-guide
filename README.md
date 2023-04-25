@@ -34,10 +34,10 @@ AI-powered agents are able to form intricate connections that resemble family an
 
 <img src="imgs/festivalParty.png" height="512" width="512">
 
- AI agents can autonomously plan their days within a sandbox environment. As time progresses, their behaviors and interactions grow increasingly sophisticated. These agents collaborate in organizing a variety of activities, such as celebrations, life events, and planning parties. The AI agents continually learn from their experiences, allowing them to anticipate the needs and desires of their fellow beings. Through these dynamic interactions, AI-powered agents create a vibrant, interconnected community that showcases the remarkable potential of AI in emulating complex human behaviors.
+ AI agents can autonomously plan their days within a sandbox environment. As time progresses, their behaviors and interactions grow increasingly sophisticated. These agents collaborate in organizing a variety of activities, such as celebrations, life events, and planning parties. The AI agents continually learn from their reflections, allowing them to anticipate the needs and desires of their fellow beings. Through these dynamic interactions, AI-powered agents create a vibrant, interconnected community that showcases the remarkable potential of AI in emulating complex human behaviors.
 
 
-## 4. Nations
+## 4. Affiliations
 
 <img src="imgs/countryBorders.png" height="512" width="512">
 
