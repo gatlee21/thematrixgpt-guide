@@ -10,6 +10,12 @@ Explore a world crafted by the most advanced LLMs. The Matrix GPT is not just a 
 
 Are you ready to step into the unknown and challenge the limits of your imagination? Join us in The Matrix GPT, and let's create the future together! 🌟
 
+<a href="https://www.example.com" class="image-button">
+    <img src="imgs/discord.png" alt="Clickable Image" width="150" height="50"/>
+</a>
+
+<br>
+
 # Possibilities of the Matrix
 
 ## 1. Society
