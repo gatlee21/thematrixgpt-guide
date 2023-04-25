@@ -1,4 +1,4 @@
-# The Matrix GPT Guide
+# The Matrix GPT
 
 Welcome to The Matrix GPT! 🚀
 
